@@ -32,4 +32,4 @@ Helps keep your workspace clean and structured
 
 - Automation scripting
 
-Logical thinking and condition handling
+- Logical thinking and condition handling
